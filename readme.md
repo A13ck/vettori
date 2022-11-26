@@ -1,16 +1,15 @@
-# Three.js Journey
+# Solidi geometrici
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+## Setup con account github
 
-``` bash
-# Install dependencies (only the first time)
-npm install
+1. Scarica ed installa [Node.js 18.12.1 LTS] (https://nodejs.org/en/).
+2. Scarica ed installa [Git] (https://git-scm.com/download/win).
+3. Crea un tuo account su github, se non ce l'hai.
+4. Esegui il fork del progetto bvicini/vettori.
+5. Clona il progetto sul tuo computer con git clone
+6. Aprendo la cartella con vscode la parte Source Control (Git integrato) sarà attiva
 
-# Run the local server at localhost:8080
-npm run dev
-
-# Build for production in the dist/ directory
-npm run build
-```
+7. Per eseguire il codice in un server locale:
+   * Esegui "**npm install**" nella cartella del progetto (scaricherà tutte le dependencies in /node_modules)
+   * Esegui "**npn run dev**" per avviare il sito sul server locale
+   * Con "**npm run build**" viene prodotta la versione compattata eseguibile online nella cartella /dist
