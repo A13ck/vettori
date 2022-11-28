@@ -2,6 +2,8 @@
 
 This is a little visualizer of two 3D vectors and the results of their sum, subtraction, cross product and dot product using THREE.JS with perspective camera. The components of the two operand vectors can range between -3 and 3; the resulting vectors update dinamically when the operands change.
 
+[Demo](http://dispensesm.altervista.org/vettori)
+
 ## Installazione semplice
 1. Scarica il sorgente in formato zip in una cartella
 2. Apri la cartella con VSCODE
