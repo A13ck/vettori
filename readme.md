@@ -2,8 +2,8 @@
 
 ## Setup con account github
 
-1. Scarica ed installa [Node.js 18.12.1 LTS] (https://nodejs.org/en/).
-2. Scarica ed installa [Git] (https://git-scm.com/download/win).
+1. Scarica ed installa [Node.js 18.12.1 LTS](https://nodejs.org/en/).
+2. Scarica ed installa [Git](https://git-scm.com/download/win).
 3. Crea un tuo account su github, se non ce l'hai.
 4. Esegui il fork del progetto bvicini/vettori.
 5. Clona il progetto sul tuo computer con git clone
